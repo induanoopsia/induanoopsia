@@ -1,4 +1,4 @@
-### Hi Earthlings 👋\
+### Hi Earthlings 👋
 My name is Indu Anoop\
 \
 👩‍🏫 - Currently I am a IT Trainer.\
