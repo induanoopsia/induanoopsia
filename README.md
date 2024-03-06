@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi Earthlings 👋
+My name is Indu Anoop
+👩‍🏫 - Currently I am a IT Trainer.
+🎓 - Qualified as a Post-Grad IT Engineer.
+📚 - Specilization in Web Development, Cloud Computing and DevOps
+💻 - Ex-Wipro
+⚡ - Love coding and Day Dreaming 😄 
 
 <!--
 **induanoopsia/induanoopsia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
