@@ -3,7 +3,7 @@ My name is Indu Anoop\
 \
 👩‍🏫 - Currently I am a IT Trainer.\
 🎓 - Qualified as a Post-Grad IT Engineer.\
-📚 - Specilization in Web Development, Cloud Computing and DevOps\
+📚 - Specialization in Web Development, Cloud Computing and DevOps\
 💻 - Ex-Wipro Software Developer\
 ⚡ - Love coding and Day Dreaming 😄\
 \
