@@ -1,7 +1,7 @@
 ### Hi Earthlings 👋
 My name is Indu Anoop\
 \
-👩‍🏫 - Currently I am an IT Trainer.\
+👩‍🏫 - Currently I am an IT Trainer and Consultant.\
 🎓 - Qualified as a Post-Grad IT Engineer.\
 📚 - Specialization in Web Development, Cloud Computing and DevOps\
 💻 - Ex-Wipro Software Developer\
