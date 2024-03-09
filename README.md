@@ -1,11 +1,10 @@
-### Hi Earthlings 👋
+### Welcome to my GitHub World! 👋
 My name is Indu Anoop\
 \
 👩‍🏫 - Currently I am an IT Trainer and Consultant.\
 🎓 - Qualified as a Post-Grad IT Engineer.\
 📚 - Specialization in Web Development, Cloud Computing and DevOps\
 💻 - Ex-Wipro Software Developer\
-⚡ - Love coding and Day Dreaming 😄\
 \
 📱 - [Instagram](https://www.instagram.com/indu_anoop/)
 
